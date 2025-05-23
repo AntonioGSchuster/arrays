@@ -15,6 +15,7 @@ console.log("O tamanho do Array nomes é: " + nomes.length);
 // Adicione dois nomes ao final do array criado anteriormente.
 // Método sugerido: push
 
+
 // EXERCÍCIO 03 - Inserindo no início
 // Adicione um nome no início do array.
 // Método sugerido: unshift
